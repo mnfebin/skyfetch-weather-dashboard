@@ -1,4 +1,3 @@
-
 /**
  * PART 3: WeatherApp Constructor Function
  * Used to organize code into an Object-Oriented structure.
