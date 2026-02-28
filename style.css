@@ -108,8 +108,8 @@ body {
 
 .error-message { background: #fee2e2; color: #b91c1c; padding: 15px; border-radius: 10px; }
 
-/* RESPONSIVE DESIGN (Part 3) */
+/* RESPONSIVE DESIGNS (Part 3) */
 @media (max-width: 500px) {
     .forecast-grid { grid-template-columns: repeat(3, 1fr); }
-    
+
 }

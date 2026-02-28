@@ -177,5 +177,5 @@ WeatherApp.prototype.showError = function(msg) {
     this.displayArea.innerHTML = `<div class="error-message">⚠️ ${msg}</div>`;
 };
 
-// INITIALIZE THE APP
+// INITIALIZE THE APPS
 const app = new WeatherApp();
